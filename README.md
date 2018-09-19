@@ -8,11 +8,11 @@
 
 [image1]: ./images/Image1.png "Image 1"
 [image2]: ./images/Image2.jpg "Image 2"
-[image4]: ./images/Image4.png "Image 4"
-[image5]: ./images/Image5.png "Image 5"
-[image6]: ./images/Image6.png "Image 6"
-[image7]: ./images/Image7.png "Image 7"
-[image8]: ./images/Image8.png "Image 8"
+[image4]: ./images/Image4.JPG "Image 4"
+[image5]: ./images/Image5.JPG "Image 5"
+[image6]: ./images/Image6.JPG "Image 6"
+[image7]: ./images/Image7.JPG "Image 7"
+[image8]: ./images/Image8.JPG "Image 8"
 [image9]: ./images/Image9.png "Image 9"
 [image10]: ./images/Image10.jpg "Image 10"
 
