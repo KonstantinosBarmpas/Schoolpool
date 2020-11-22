@@ -14,7 +14,6 @@
 [image5]: ./images/Image5.JPG "Image 5"
 [image6]: ./images/Image6.JPG "Image 6"
 [image7]: ./images/Image7.JPG "Image 7"
-[image8]: ./images/Image8.JPG "Image 8"
 [image9]: ./images/Image9.png "Image 9"
 [image10]: ./images/Image10.jpg "Image 10"
 
@@ -61,9 +60,8 @@ Your phone unlocks the SpCar using NFC-key.  Get in the car and enjoy your ride.
 
 The design:
 
-The SpCar was designed by Maria Dima, 5th year architecture student at Democritus University of Thrace.
+The SpCar was designed by Maria Dima, 5th year architecture student at Democritus University of Thrace. [[Maria Dima](https://www.instagram.com/mar_dima/?hl=el)]
 
-![image8]
 ![image9]
 ![image10]
 
