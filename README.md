@@ -1,6 +1,8 @@
 # **SchoolPool**
 
-## A new way to get your kids to school. (2018).
+## A new way to get your kids to school.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -16,18 +18,14 @@
 [image9]: ./images/Image9.png "Image 9"
 [image10]: ./images/Image10.jpg "Image 10"
 
-**SchoolPool**
+## Goal of the project
 
-Explore at: https://www.barmpas.com/schoolpool
+Use the app to call your autonomous SpCar for your kid. The SpCar drives your kid safely to school.
+Spend more time with your family in the morning and less time in the car. Project for BCW2018 Autonomous Driving Challenge. 
 
 ![image1]
 
-Goal of the project:
-
-Use the app to call your autonomous SpCar for your kid. The SpCar drives your kid safely to school.
-Spend more time with your family in the morning and less time in the car.
-
-The SpCar:
+## The SpCar
 
 ![image2]
 
@@ -43,7 +41,7 @@ The traffic light camera uses an advanced traffic light classifier. It uses Mobi
 
 Using the data from the three types of sensors the car can decide and drive autonomouly.
 
-The app:
+## The app
 
 Use your phone number to sign in your account. SchoolPool data are hosted in a  Firebase online database. Secured and encrypted by Google.
 
