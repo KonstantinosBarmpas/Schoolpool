@@ -40,6 +40,13 @@ The traffic light camera uses an advanced traffic light classifier. It uses Mobi
 
 Using the data from the three types of sensors the car can decide and drive autonomouly.
 
+### Design
+
+The SpCar was designed by Maria Dima, 5th year architecture student at Democritus University of Thrace. [[Maria Dima](https://www.instagram.com/mar_dima/?hl=el)]
+
+![image9]
+![image10]
+
 ## The app
 
 Use your phone number to sign in your account. SchoolPool data are hosted in a  Firebase online database. Secured and encrypted by Google.
@@ -57,13 +64,6 @@ Choose your car. Choose one of the plans available for your route.
 Your phone unlocks the SpCar using NFC-key.  Get in the car and enjoy your ride.
 
 ![image7]
-
-The design:
-
-The SpCar was designed by Maria Dima, 5th year architecture student at Democritus University of Thrace. [[Maria Dima](https://www.instagram.com/mar_dima/?hl=el)]
-
-![image9]
-![image10]
 
 ---
 
